@@ -1,0 +1,12 @@
+Task 2
+
+Project Link: https://lovable.dev/projects/2264ec18-1a3a-4cfe-a283-38fba6c1df74
+
+Description:
+This project is created for CodeAlpha internship. It shows basic functionality of the project.
+
+Tools Used:
+HTML, CSS, JavaScript (or Python – change based on your project)
+
+Result:
+Project completed successfully.
